@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
- - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Active Directory Home Lab](https://github.com/TylerReynolds123/ActiveDirectoryLab/blob/main/README.md)
  - [Hello World!](https://github.com/joshcybertest/LABURL)
 
 <h2>📄 Certifications</h2>
