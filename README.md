@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
  - [Active Directory Home Lab](https://github.com/TylerReynolds123/ActiveDirectoryLab/blob/main/README.md)
- - [Hello World!](https://github.com/joshcybertest/LABURL)
+ - [Azure Sentinel SIEM Tutorial](https://github.com/TylerReynolds123/LABURL)
 
 <h2>📄 Certifications</h2>
 
