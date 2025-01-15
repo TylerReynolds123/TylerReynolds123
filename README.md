@@ -17,7 +17,7 @@ CompTia Security +
 
 Microsoft AZ-900
 
-ITIL v4
+ITIL v4 Foundation
 
 LE:1 Linux Essentials
 
