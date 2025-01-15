@@ -21,7 +21,7 @@ ITIL v4 Foundation
 
 LE:1 Linux Essentials
 
-Cisco Certified Network Associate
+CCNA
 
 CompTia Project +
 
