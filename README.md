@@ -9,11 +9,11 @@
 
 <h2>📄 Certifications</h2>
 
-CompTia A+
+CompTIA A+
 
-CompTia Network +
+CompTIA Network +
  
-CompTia Security + 
+CompTIA Security + 
 
 Microsoft AZ-900
 
@@ -23,7 +23,7 @@ LE:1 Linux Essentials
 
 Cisco CCNA
 
-CompTia Project +
+CompTIA Project +
 
 AWS Certified Cloud Practitioner
 
