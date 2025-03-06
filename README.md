@@ -23,6 +23,8 @@ LE:1 Linux Essentials
 
 Cisco CCNA
 
+(ISC)² SSCP 
+
 CompTIA Project +
 
 AWS Certified Cloud Practitioner
