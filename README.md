@@ -29,6 +29,8 @@ CompTIA Project +
 
 AWS Certified Cloud Practitioner
 
+CompTIA CySA +
+
 
 <h2> 🤳 Connect with me:</h2>
 
