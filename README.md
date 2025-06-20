@@ -31,6 +31,8 @@ AWS Certified Cloud Practitioner
 
 CompTIA CySA +
 
+CompTIA Pentest +
+
 
 <h2> 🤳 Connect with me:</h2>
 
