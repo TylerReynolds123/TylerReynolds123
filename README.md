@@ -11,9 +11,9 @@
 
 CompTIA A+
 
-CompTIA Network +
+CompTIA Network+
  
-CompTIA Security + 
+CompTIA Security+ 
 
 Microsoft AZ-900
 
@@ -25,13 +25,13 @@ Cisco CCNA
 
 (ISC)² SSCP 
 
-CompTIA Project +
+CompTIA Project+
 
 AWS Certified Cloud Practitioner
 
-CompTIA CySA +
+CompTIA CySA+
 
-CompTIA Pentest +
+CompTIA Pentest+
 
 
 <h2> 🤳 Connect with me:</h2>
