@@ -33,6 +33,8 @@ CompTIA CySA+
 
 CompTIA Pentest+
 
+Security Blue Team Blue Team Level One (BTL1)
+
 
 <h2> 🤳 Connect with me:</h2>
 
