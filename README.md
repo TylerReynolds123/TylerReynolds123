@@ -13,7 +13,9 @@ CompTIA A+
 
 CompTIA Network+
  
-CompTIA Security+ 
+CompTIA Security+
+
+Microsoft SC-900
 
 Microsoft AZ-900
 
