@@ -37,6 +37,8 @@ CompTIA Pentest+
 
 Security Blue Team Blue Team Level One (BTL1)
 
+HTB Certified Defensive Security Analyst (CDSA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
