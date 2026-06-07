@@ -39,6 +39,8 @@ Security Blue Team Blue Team Level One (BTL1)
 
 HTB Certified Defensive Security Analyst (CDSA)
 
+Certified CyberDefender Level 2 (CCDL2)
+
 
 <h2> 🤳 Connect with me:</h2>
 
